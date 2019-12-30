@@ -10,5 +10,8 @@ setup(
     version="0.0.1",
     packages=PACKAGES,
     license="BSD 3-clause",
-    install_requires=['pexpect']
+    install_requires=['pexpect'],
+    author="HoxinhLuo",
+    author_email="2577229471@qq.com",
+    url="https://github.com/HoxinLuo/pytratto"
 )
